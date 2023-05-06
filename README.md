@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on some Minecraft Mods, Server Hosting, Web Hosting, VPS Service, WordPress, basic website security, Malware research, DNS Services or domain services. 
 - 📫 Thinking of Colaboration? - Wanna Reach me - Masem@duck.com - (I will answer probably if I have not busted my head in frustration of debugging of new project.)
 
-Life's motto - "Make Mistakes - Debug later on. Since you can't get far with a error on".
+Life's motto - "Make Mistakes - Debug later on. Since you can't get far with a error light (🔴) on".
 
 <!---
 TheCaptainCook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
