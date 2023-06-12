@@ -1,5 +1,10 @@
+<h1 align="center">Hi 👋, This is The Captain Cook</h1>
+<h3 align="center"> Information Security and Cyber Forensics Engineer | WordPress/HTML Designer | Minecraft Mod Developer <a href="https://github.com/TheCaptainCook" target="blank">The Captain Cook aka Masem</a> | M. Tech Degree Holder, 2024</h3>
+
+<h1 align="left">About me:</h1>
+
 - 👋 Hi, I’m @TheCaptainCook aka Masem Mandal
-- 👀 I’m interested in anything and everything my brain can soak on to. But Importantly don't make it long as encyclopedia (with no pictures).
+- 👀 I’m interested in anything and everything my brain can soak on to. But Importantly don't make it long as encyclopedia (with no pictures.. please).
 - 🎓 I’m currently learning Minecraft Plugin Development and persuing Master's in Information Security and Cyber Forensics.
 - 🌱 Why Minecraft Plugin Development you may ask? - Because with minecraft being sandbox type game, I can run my imagination wild. So, I decided to build my own  mincraft mods and when I have finished my ideas then decided to maintain the abandoned mods and revieve to the newest version of the Minecraft.
 - 🏄‍♂️ What do i do in my free time, you wanna know? - You can either find me debugging mistake or I have been discovering new ways to make mistakes. 
